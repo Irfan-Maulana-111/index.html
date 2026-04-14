@@ -1,2 +1,0 @@
-# Informasi-Sekolah
-web
